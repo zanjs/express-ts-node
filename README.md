@@ -1,5 +1,7 @@
 # Using Typescript with Node JS
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/express-ts-node.svg)](https://greenkeeper.io/)
+
 In this article we will set up an [Express][1] application using [Typescript][2].
 
 ## Requirements
